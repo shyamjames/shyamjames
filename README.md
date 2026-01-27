@@ -1,2 +1,2 @@
-## 🔥 Current Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=shyamjames&theme=default)](https://git.io/streak-stats)
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com?user=shyamjames&hide_border=true)
